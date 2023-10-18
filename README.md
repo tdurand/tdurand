@@ -1,6 +1,6 @@
-👋 I am Thibault, I like to make interesting / fun / useful things that render in a browser. 
+👋👋 I am Thibault, I like to make interesting / fun / useful things that render in a browser. 
 
-I am doing this since 10 years as a Freelancer, and I am currently available for contract work.
+I am doing this since 10 years as a Freelancer, and I am currently (available for contract work)[mailto:tibo.durand@gmail.com] ✉️.
 
 Some things I made:
 
