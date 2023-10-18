@@ -10,4 +10,4 @@ Some things I made:
 
 I am currently [available for contract work](mailto:tibo.durand@gmail.com) ✉️. Here [is my CV](https://u.pcloud.link/publink/show?code=XZ1IaqVZ66GXHC4GH1jvFyqrlHRuhLs4yLoV) 📃
 
-You can learn more about me on [twitter](twitter.com/tibbb) / [mastodon](https://mapstodon.space/@tdurand) 
+You can learn more about me on [twitter](https://twitter.com/tibbb) / [mastodon](https://mapstodon.space/@tdurand) 
