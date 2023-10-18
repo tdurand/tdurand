@@ -1,4 +1,6 @@
-👋👋 I am Thibault, I like to make interesting / fun / useful things that render in a browser. 
+👋👋 
+
+I am Thibault, I like to make interesting 🧠, fun ✨ and useful ⚙️ things that render in a browser. 
 
 Some things I made:
 
